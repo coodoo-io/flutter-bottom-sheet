@@ -1,4 +1,4 @@
-# internationalization
+# bottom-sheet
 
 Ein Flutter Projekt welches ein Beispiel für eine Implementation von Internationalization ist. Der dazugehörige Beitrag ist auf [Flutter.de](https://flutter.de/artikel/bottom-sheet-modals-in-flutter.html) zu finden.
 
